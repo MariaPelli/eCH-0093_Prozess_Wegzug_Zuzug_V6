@@ -520,7 +520,13 @@ Es werden nur Daten berücksichtigt, welche:
 - in den Basis -Standards eCH-0011, eCH -0044 und eCH -0021 geführt werden
 
 ---
-**Feedback**: [Fehler melden][1.2/kap-1-2_bug.md] · [Verbesserung vorschlagen][feat-1] · [Alle Issues][issues-1] · [Diskussionen][discuss-1]
+**Feedback**: [Fehler melden][bug-1] · [Verbesserung vorschlagen][feat-1] · [Alle Issues][issues-1] · [Diskussionen][discuss-1]
+
+[bug-1]: ./1.2/kap-1-2_bug.md
+[feat-1]: ./1.2/kap-1-2_feature.md
+[issues-1]: ./1.2/kap-1-2_issues.md
+[discuss-1]: ./1.2/kap-1-2_discussions.md
+
 
 ---
 ### 2 1 Notation · Version: `4 0 0`
