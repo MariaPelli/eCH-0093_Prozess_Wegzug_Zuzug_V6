@@ -519,16 +519,8 @@ eCH-0020 besc hrieben sind.
 Es werden nur Daten berücksichtigt, welche:
 - in den Basis -Standards eCH-0011, eCH -0044 und eCH -0021 geführt werden
 
-
-
-E-Government Standards
-
-
-
-eCH-0093 – Prozess Wegzug / Zuzug / 4.0.0 / Entwurf / 2022 -04-21 2 Grundsätze
-
 ---
-**Feedback**: [Fehler melden][bug-1] · [Verbesserung vorschlagen][feat-1] · [Alle Issues][issues-1] · [Diskussionen][discuss-1]
+**Feedback**: [Fehler melden][1.2/kap-1-2_bug.md] · [Verbesserung vorschlagen][feat-1] · [Alle Issues][issues-1] · [Diskussionen][discuss-1]
 
 ---
 ### 2 1 Notation · Version: `4 0 0`
