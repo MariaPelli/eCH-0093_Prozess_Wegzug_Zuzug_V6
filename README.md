@@ -1,5 +1,6 @@
 [//]: # (Dieser Kommentar wird nicht gerendert und bleibt nur im Raw/Edit sichtbar.)
 [//]: # (Du kannst mehrere Zeilen anlegen, am besten pro Zeile einen Eintrag.)
+[hidden-note]: <> (Interne Notiz: diese Definition wird nicht angezeigt, nur im Raw sichtbar)
 
 # eCH-0093 – Prozess Wegzug / Zuzug (Version 4.0.0)
 
