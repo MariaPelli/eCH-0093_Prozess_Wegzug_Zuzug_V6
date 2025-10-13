@@ -149,13 +149,11 @@ eCH-0093 – Prozess Wegzug / Zuzug / 4.0.0 / Entwurf / 2022 -04-21 1 Einleitung
 ---
 **Feedback**: [Fehler melden][bug-6] · [Verbesserung vorschlagen][feat-6] · [Alle Issues][issues-6] · [Diskussionen][discuss-6]
 
-[Announcements](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements)
+[Announcements](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements)fire
 
 ---
 <a id="1-1-status-4"></a>
 ### 1 1 Status · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
-
-Older versions: [v4.0.0](4.0.1) · [v4.0.0](4.0.0)
 
 Entwurf: Das Dokument wurde von den zuständigen Referenten aus dem Expertenausschuss zur
 öffentlichen K onsultation freigegeben und entsprechend publiziert.
@@ -163,6 +161,8 @@ Vorschlag: Das Dokument wird dem Ex pertenausschuss zur Genehmigung vorgelegt, i
 mativ noch nicht gültig.
 Genehmigt: Das Dokument wurde vom Expertenausschuss genehmigt. Es hat für das definierte Ein-
 satzgebiet im festgelegten Gültigkeitsbereich normative Kraft.
+
+Frühere Versionen: [v4.0.0](4.0.1) · [v4.0.0](4.0.0)
 
 ---
 **Feedback**: [Fehler melden][bug-1] · [Verbesserung vorschlagen][feat-1] · [Alle Issues][issues-1] · [Diskussionen][discuss-1]
