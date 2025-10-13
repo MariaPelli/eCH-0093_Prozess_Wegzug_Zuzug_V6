@@ -154,7 +154,7 @@ eCH-0093 – Prozess Wegzug / Zuzug / 4.0.0 / Entwurf / 2022 -04-21 1 Einleitung
 ---
 <a id="1-1-status-4"></a>
 ### 1 1 Status · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
-Older versions: ![v4.0.0](https://img.shields.io/badge/version-4.0.1-blue) · ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+Older versions: ![v4.0.0](4.0.1) · ![v4.0.0]4.0.0)
 Entwurf: Das Dokument wurde von den zuständigen Referenten aus dem Expertenausschuss zur
 öffentlichen K onsultation freigegeben und entsprechend publiziert.
 Vorschlag: Das Dokument wird dem Ex pertenausschuss zur Genehmigung vorgelegt, ist aber nor-
