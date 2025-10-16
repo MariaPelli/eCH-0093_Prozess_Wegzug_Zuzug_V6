@@ -131,7 +131,7 @@
 - [3 2 1 1 2 13 Neu kann mit der Meldung moveOut auch das Flag ist](#3-2-1-1-2-13-neu-kann-mit-der-meldung-moveout-auch-das-flag-ist)
 
 ---
-# eCH-0093 – Prozess Wegzug / Zuzug (Version 4 0 0)
+# eCH-0093 – Prozess Wegzug / Zuzug
 
 > Dieses README enthält den **gesamten Standard** in einer einzigen Datei, nach Kapiteln gegliedert.  
 > Für **jedes Unterkapitel** ist eine **Versionsnummer** (hier: 4.0.0) angegeben sowie **Feedback-Links**.
@@ -149,9 +149,7 @@ schliesst Frauen in ihrer jeweiligen Funktion ausdrücklich mit ein.
 eCH-0093 – Prozess Wegzug / Zuzug / 4.0.0 / Entwurf / 2022 -04-21 1 Einleitung
 
 ---
-**Feedback**: [Fehler melden][bug-6] · [Verbesserung vorschlagen][feat-6] · [Alle Issues][issues-6] · [Diskussionen][discuss-6]
-
-[Announcements](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements)
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) · [Fehler melden][bug-6] · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Issues][issues-6] · [Diskussionen][discuss-6]
 
 ---
 <a id="1-1-status-4"></a>
