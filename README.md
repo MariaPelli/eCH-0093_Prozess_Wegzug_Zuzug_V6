@@ -165,7 +165,7 @@ satzgebiet im festgelegten Gültigkeitsbereich normative Kraft.
 Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 
 ---
-**Feedback**: [Fehler melden][bug-1] · [Verbesserung vorschlagen][feat-1] · [Alle Issues][issues-1] · [Diskussionen][discuss-1]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 <a id="1-2-anwendungsgebiet-4"></a>
@@ -198,7 +198,7 @@ Es werden nur Daten berücksichtigt, welche:
 Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 
 ---
-**Feedback**: [Fehler melden][bug-1] · [Verbesserung vorschlagen][feat-1] · [Alle Issues][issues-1] · [Diskussionen][discuss-1]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 [bug-1]: ./1.2/kap-1-2_bug.md
 [feat-1]: ./1.2/kap-1-2_feature.md
@@ -220,7 +220,7 @@ OPTIONAL: Es ist dem Verantwortlichen überlassen, ob er die Vorgabe umsetzen wi
 Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 
 ---
-**Feedback**: [Fehler melden][bug-2] · [Verbesserung vorschlagen][feat-2] · [Alle Issues][issues-2] · [Diskussionen][discuss-2]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 2 2 Allgemeine Grundsätze · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
@@ -247,7 +247,7 @@ stammen – erkennbar am Präfix „EUMZUG“ in der businessProcessID – ist d
 cessID aus eUmzug weiterzugeben.
 
 ---
-**Feedback**: [Fehler melden][bug-2] · [Verbesserung vorschlagen][feat-2] · [Alle Issues][issues-2] · [Diskussionen][discuss-2]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 2 3 Prozesse für den Austausch von Meldungen · Version: `4 0 0`
@@ -262,7 +262,7 @@ E-Government Standards
 eCH-0093 – Prozess Wegzug / Zuzug / 4.0.0 / Entwurf / 2022 -04-21 2.4 Zu liefernde Daten
 
 ---
-**Feedback**: [Fehler melden][bug-2] · [Verbesserung vorschlagen][feat-2] · [Alle Issues][issues-2] · [Diskussionen][discuss-2]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 2 4 1 Obligatorische Daten pro Meldung · Version: `4 0 0`
@@ -270,7 +270,7 @@ Jede Ereignismeldung wird zusammen mit generellen Informationen gemeldet. Dazu g
 sondere das Ereignisdatum sowie Sperrvermerke. Die Informationen sind in [eCH -0058] beschrieben.
 
 ---
-**Feedback**: [Fehler melden][bug-2] · [Verbesserung vorschlagen][feat-2] · [Alle Issues][issues-2] · [Diskussionen][discuss-2]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 2 4 2 Angabe von Identifikatoren für Personen · Version: `4 0 0`
@@ -279,7 +279,7 @@ eCH-0044’ gesprochen, so sind immer alle identifizierenden Merkmale gemeint. D
 ren für die Merkmale Name , Vorname (n), Geschlecht und Geburtsdatum .
 
 ---
-**Feedback**: [Fehler melden][bug-2] · [Verbesserung vorschlagen][feat-2] · [Alle Issues][issues-2] · [Diskussionen][discuss-2]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 2 4 3 Angabe von Beziehungen · Version: `4 0 0`
@@ -295,17 +295,17 @@ durch Angabe einer vollständigen Wohnadresse
 erfolgen.
 
 ---
-**Feedback**: [Fehler melden][bug-2] · [Verbesserung vorschlagen][feat-2] · [Alle Issues][issues-2] · [Diskussionen][discuss-2]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 3 Spezifikation · Version: `4 0 0`
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 3 1 Prozesse · Version: `4 0 0`
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 3 1 1 Prozess bei direkter Meldung zwischen den Einwohnerdiensten (Hauptwohnsitz) · Version: `4 0 0`
@@ -324,8 +324,7 @@ eCH-0093 – Prozess Wegzug / Zuzug / 4.0.0 / Entwurf / 2022 -04-21
 Abbildung 1: UML -Diagramm zum Prozess WegZug / Zuzug (eine grössere Version ist im Anhang zu finden)
 
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
-
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 ---
 ### 3 1 1 1 Teilprozess Wegzug · Version: `4 0 0`
 Die Person meldet sich beim Einwohnerdienst der aktuellen Gemeinde ab (person deregisters with
@@ -339,7 +338,7 @@ Wegzugsgemeinde mittels der entsprechenden eCH -0020 -Ereignismeldungen (Message
 0020: moveOut) .
 
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 3 1 1 2 Teilprozess Zuzug · Version: `4 0 0`
@@ -352,7 +351,7 @@ Welche Daten die Zuzugsmeldung beinhaltet ist im Kapitel 3.2.2 ersichtlich.
 Zuzugsgemeinde mittels der entsprechenden eCH -0020 -Meldegründe (Message eCH -0020:moveIn) .
 
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 3 1 2 Prozess für Nebenwohnsitz -Begründung und -Auflösung · Version: `4 0 0`
@@ -370,7 +369,7 @@ eCH-0093 – Prozess Wegzug / Zuzug / 4.0.0 / Entwurf / 2022 -04-21
 Abbildung 2: Prozesse im Kontext von Nebenwohnsitz
 
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 3 1 2 1 Teilprozess Nebenwohnsitz begründen · Version: `4 0 0`
@@ -387,7 +386,7 @@ benwohnsitzes mit der Meldung "Zuzug Nebenwohnsitz" (moveInSecondaryResidence) .
 ten die Meldung enthält ist im Kapitel 3.2.6 ersichtlich.
 
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 3 1 2 2 Teilprozess Verlängerung Nebenwohnsitz · Version: `4 0 0`
@@ -410,8 +409,7 @@ Meldung "Zuzug Nebenwohnsitz" (moveInSecondaryResidence). Welche Daten die Meldu
 ist im Kapitel 3.2.6 ersichtlich.
 
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
-
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 ---
 ### 3 1 2 3 Teilprozess Nebenwohnsitz auflösen · Version: `4 0 0`
 Die meldepflichte Person meldet beim Einwohnerdienst der Nebenwohnsitzgemeinde, dass sie den
@@ -425,7 +423,7 @@ sitzgemeinde die Meldung "Wegzug Nebenwohnsitz" . Welche Daten die Meldung enth�
 tel 3.2.7 ersichtlich.
 
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 3 2 Ereignismeldungen · Version: `4 0 0`
@@ -434,7 +432,7 @@ nicht explizit ein bestimmter Basisstandard für ein Element erwähnt ist, gelte
 mäss eCH -0011
 
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 3 2 1 Wegzug · Version: `4 0 0`
@@ -460,7 +458,7 @@ eCH-0093 – Prozess Wegzug / Zuzug / 4.0.0 / Entwurf / 2022 -04-21
 Abbildung 3 eventMoveOutType
 
 ---
-**Feedback**: [Fehler melden][bug-3] · [Verbesserung vorschlagen][feat-3] · [Alle Issues][issues-3] · [Diskussionen][discuss-3]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 ### 3 2 1 1 Person – moveOutPerson · Version: `4 0 0`
