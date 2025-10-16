@@ -4,7 +4,7 @@
 
 <img src="Bilder/logo.svg" alt="Logo eCH" width="260" align="right">
 
-# eCH-0093 – Prozess Wegzug / Zuzug (Version 4.0.0)
+# eCH-0093 – Prozess Wegzug / Zuzug
 
 [Kontakt](./Kontakt.md) | [Hilfe](./Hilfe.md) | [Exportieren](./Exportieren.md)
 
@@ -151,7 +151,7 @@ eCH-0093 – Prozess Wegzug / Zuzug / 4.0.0 / Entwurf / 2022 -04-21 1 Einleitung
 ---
 **Feedback**: [Fehler melden][bug-6] · [Verbesserung vorschlagen][feat-6] · [Alle Issues][issues-6] · [Diskussionen][discuss-6]
 
-[Announcements](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements)fire
+[Announcements](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements)
 
 ---
 <a id="1-1-status-4"></a>
@@ -164,7 +164,7 @@ mativ noch nicht gültig.
 Genehmigt: Das Dokument wurde vom Expertenausschuss genehmigt. Es hat für das definierte Ein-
 satzgebiet im festgelegten Gültigkeitsbereich normative Kraft.
 
-Frühere Versionen: [v4.0.0](4.0.1) · [v4.0.0](4.0.0)
+Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 
 ---
 **Feedback**: [Fehler melden][bug-1] · [Verbesserung vorschlagen][feat-1] · [Alle Issues][issues-1] · [Diskussionen][discuss-1]
@@ -197,6 +197,8 @@ eCH-0020 besc hrieben sind.
 Es werden nur Daten berücksichtigt, welche:
 - in den Basis -Standards eCH-0011, eCH -0044 und eCH -0021 geführt werden
 
+Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
+
 ---
 **Feedback**: [Fehler melden][bug-1] · [Verbesserung vorschlagen][feat-1] · [Alle Issues][issues-1] · [Diskussionen][discuss-1]
 
@@ -207,6 +209,7 @@ Es werden nur Daten berücksichtigt, welche:
 
 
 ---
+<a id="2-1-notation-5"></a>
 ### 2 1 Notation · Version: `4 0 0`
 Die Richtlinien in diesem Dokument werden gemäss der Terminologie aus [RFC2119] angegeben,
 dabei kommen die folgenden Ausdrücke zur Anwendung, die durch GROSSSCHREIBUNG als Wör-
@@ -215,6 +218,8 @@ ZWINGEND: Der Ver antwortliche muss die Vorgabe umsetzen.
 EMPFOHLEN: Der Verantwortliche kann aus wichtigen Gründen auf eine Umsetzung der Vor-
 gabe verzichten.
 OPTIONAL: Es ist dem Verantwortlichen überlassen, ob er die Vorgabe umsetzen will.
+
+Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 
 ---
 **Feedback**: [Fehler melden][bug-2] · [Verbesserung vorschlagen][feat-2] · [Alle Issues][issues-2] · [Diskussionen][discuss-2]
