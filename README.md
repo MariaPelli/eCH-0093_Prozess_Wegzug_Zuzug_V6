@@ -162,7 +162,7 @@ mativ noch nicht gültig.
 Genehmigt: Das Dokument wurde vom Expertenausschuss genehmigt. Es hat für das definierte Ein-
 satzgebiet im festgelegten Gültigkeitsbereich normative Kraft.
 
-Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
+Frühere Versionen: [v3.9.9](Status/README.md) · [v3.9.8](Status/README.md)
 
 ---
 **Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
