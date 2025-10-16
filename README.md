@@ -195,7 +195,7 @@ eCH-0020 besc hrieben sind.
 Es werden nur Daten berücksichtigt, welche:
 - in den Basis -Standards eCH-0011, eCH -0044 und eCH -0021 geführt werden
 
-Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
+Alle Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 
 ---
 **Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
@@ -217,7 +217,7 @@ EMPFOHLEN: Der Verantwortliche kann aus wichtigen Gründen auf eine Umsetzung de
 gabe verzichten.
 OPTIONAL: Es ist dem Verantwortlichen überlassen, ob er die Vorgabe umsetzen will.
 
-Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
+Alle Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 
 ---
 **Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
