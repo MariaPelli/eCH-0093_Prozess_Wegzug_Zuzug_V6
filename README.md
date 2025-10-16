@@ -2,6 +2,8 @@
 [//]: # (Du kannst mehrere Zeilen anlegen, am besten pro Zeile einen Eintrag.)
 [hidden-note]: <> (Interne Notiz: diese Definition wird nicht angezeigt, nur im Raw sichtbar)
 
+<img src="Bilder/logo.svg" alt="Mein Logo" width="120" align="right">
+
 # eCH-0093 – Prozess Wegzug / Zuzug (Version 4.0.0)
 
 [Kontakt](./Kontakt.md) | [Hilfe](./Hilfe.md) | [Exportieren](./Exportieren.md)
