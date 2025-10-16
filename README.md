@@ -149,7 +149,7 @@ schliesst Frauen in ihrer jeweiligen Funktion ausdrücklich mit ein.
 eCH-0093 – Prozess Wegzug / Zuzug / 4.0.0 / Entwurf / 2022 -04-21 1 Einleitung
 
 ---
-**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) · [Fehler melden][bug-6] · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Issues][issues-6] · [Diskussionen][discuss-6]
+**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
 <a id="1-1-status-4"></a>
@@ -169,7 +169,7 @@ Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 
 ---
 <a id="1-2-anwendungsgebiet-4"></a>
-### 1 2 Anwendungsgebiet · Version: `4 0 0`
+### 1 2 Anwendungsgebiet · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
 Die Einwohnerdienste haben den gesetzlichen Auftrag, Einwohnerregister zu führen und die regi-
 strierten und geänderten Personendaten den berechtigten Verwaltungsst ellen zu melden. Das vorlie-
 gende Dokument spezifiziert
@@ -208,7 +208,7 @@ Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 
 ---
 <a id="2-1-notation-5"></a>
-### 2 1 Notation · Version: `4 0 0`
+### 2 1 Notation · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
 Die Richtlinien in diesem Dokument werden gemäss der Terminologie aus [RFC2119] angegeben,
 dabei kommen die folgenden Ausdrücke zur Anwendung, die durch GROSSSCHREIBUNG als Wör-
 ter mit den folgenden Bedeutungen kenntlich gemacht wer -den:
@@ -223,7 +223,7 @@ Frühere Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 **Feedback**: [Fehler melden][bug-2] · [Verbesserung vorschlagen][feat-2] · [Alle Issues][issues-2] · [Diskussionen][discuss-2]
 
 ---
-### 2 2 Allgemeine Grundsätze · Version: `4 0 0`
+### 2 2 Allgemeine Grundsätze · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
 Bezüglich der Meldung von Ereignissen aus dem Bereich der Einwohnerdienste sind folgende
 Grundsätze einzuhalten:
  [ZWINGEND], Sowohl der Zuzug wie auch der Wegzug sind über Ereignisse zu melden.
