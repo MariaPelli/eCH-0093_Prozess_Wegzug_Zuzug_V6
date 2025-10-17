@@ -15,9 +15,9 @@
 
 ### 1. Einleitung
 - Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
-- [1 Einleitung](#1-einleitung) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
-- [1.1 Status](#1-1-status) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
-- [1.2 Anwendungsgebiet](#1-2-anwendungsgebiet) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [1 Einleitung](../1.1/README.md) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [1.1 Status](../1.1/README.md) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [1.2 Anwendungsgebiet](../1.2/README.md) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
 ### 2. Grundsätze
 - Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
 - [2. Grundsätze](#2-grundsaetze) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
