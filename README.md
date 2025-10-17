@@ -151,10 +151,6 @@ schliesst Frauen in ihrer jeweiligen Funktion ausdrücklich mit ein.
 <a id="1-einleitung"></a>
 ### 1. Einleitung · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
 
----
-**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
-
----
 <a id="1-1-status"></a>
 ### 1.1 Status · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
 
