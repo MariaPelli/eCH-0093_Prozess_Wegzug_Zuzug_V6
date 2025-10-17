@@ -6,38 +6,35 @@
 
 # eCH-0093 – Prozess Wegzug / Zuzug
 
-[Kontakt](./Kontakt.md) | [Hilfe](./Hilfe.md) | [Exportieren](./Exportieren.md)
+[Full View](../README.md) | [Most Wanted](Most_wanted_view/README.md) | [Kontakt](./Kontakt.md) | [Hilfe](./Hilfe.md) | [Exportieren](./Exportieren.md)
 
 > Diese README folgt dem SAGA-Layout: **Startseite/Übersicht** oben, gefolgt vom **vollständigen Inhalt**.  
 > Alle Texte wurden beibehalten; die Feedback-Links sind kompakt dargestellt.
 
-## 🌐 Status - Frühere Versionen
+## 🌐 Übersicht der Kapitel
 
----
-<a id="1-1-status-4"></a>
-### 1 1 Status · Version: ![v3.9.9](https://img.shields.io/badge/version-4.0.2-blue)
-
-Entwurf: Das Dokument wurde von den zuständigen Referenten aus dem Expertenausschuss zur
-öffentlichen K onsultation freigegeben und entsprechend publiziert.
-Vorschlag: Das Dokument wird dem Ex pertenausschuss zur Genehmigung vorgelegt, ist aber nor-
-mativ noch nicht gültig.
-Genehmigt: Das Dokument wurde vom Expertenausschuss genehmigt. Es hat für das definierte Ein-
-satzgebiet im festgelegten Gültigkeitsbereich normative Kraft.
-
----
-**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
-
----
-<a id="1-1-status-4"></a>
-### 1 1 Status · Version: ![v3.9.8](https://img.shields.io/badge/version-4.0.2-blue)
-
-Entwurf: Das Dokument wurde von den zuständigen Referenten aus dem Expertenausschuss zur
-öffentlichen K onsultation freigegeben und entsprechend publiziert.
-Vorschlag: Das Dokument wird dem Ex pertenausschuss zur Genehmigung vorgelegt, ist aber nor-
-mativ noch nicht gültig.
-Genehmigt: Das Dokument wurde vom Expertenausschuss genehmigt. Es hat für das definierte Ein-
-satzgebiet im festgelegten Gültigkeitsbereich normative Kraft.
-
----
-**Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
-
+### 1. Einleitung
+- Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [1 Einleitung](#1-einleitung) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [1.1 Status](#1-1-status) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [1.2 Anwendungsgebiet](#1-2-anwendungsgebiet) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+### 2. Grundsätze
+- Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [2. Grundsätze](#2-grundsaetze) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [2.1 Notation](#2-1-notation) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [2.2 Allgemeine Grundsätze](#2-2-allgemeine_grundsaetze) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [2.3 Prozesse für den Austausch von Meldungen](#2-3-prozesse-fr-den-austausch-von-meldungen-5) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [2.4 Zu liefernde Daten](#2-4-zu-liefernde-daten-6) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [2.4.1 Obligatorische Daten pro Meldung](#2-4-1-obligatorische-daten-pro-meldung-6) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [2.4.2 Angabe von Identifikatoren für Personen](#2-4-2-angabe-von-identifikatoren-fr-personen-6) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [2.4.3 Angabe von Beziehungen](#2-4-3-angabe-von-beziehungen-6) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+### 3. Spezifikation
+- Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [3. Spezifikation](#3-spezifikation-6) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [3.1 Prozesse](#3-1-prozesse-6) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [3.1.1 Prozess bei direkter Meldung zwischen den Einwohnerdiensten (Hauptwohnsitz)](#3-1-1-prozess-bei-direkter-meldung-zwischen-den-einwohnerdiensten-hauptwohnsitz-6) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [3.1.1.1 Teilprozess Wegzug](#3-1-1-1-teilprozess-wegzug-7) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [3.1.1.2 Teilprozess Zuzug](#3-1-1-2-teilprozess-zuzug-7) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [3.1.2 Prozess für Nebenwohnsitz -Begründung und -Auflösung](#3-1-2-prozess-fr-nebenwohnsitz-begrndung-und-auflsung-7) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [3.1.2.1 Teilprozess Nebenwohnsitz begründen](#3-1-2-1-teilprozess-nebenwohnsitz-begrnden-8) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+- [3.1.2.2 Teilprozess Verlän gerung Nebenwohnsitz](#3-1-2-2-teilprozess-verln-gerung-nebenwohnsitz-8) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
