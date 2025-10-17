@@ -161,7 +161,7 @@ mativ noch nicht gültig.
 Genehmigt: Das Dokument wurde vom Expertenausschuss genehmigt. Es hat für das definierte Ein-
 satzgebiet im festgelegten Gültigkeitsbereich normative Kraft.
 
-Frühere Versionen: [v3.9.9](Status/README.md) · [v3.9.8](Status/README.md)
+Alle Versionen: [v3.9.9](1.1/README.md) · [v3.9.8](1.1/README.md)
 
 ---
 **Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
@@ -194,7 +194,7 @@ eCH-0020 besc hrieben sind.
 Es werden nur Daten berücksichtigt, welche:
 - in den Basis -Standards eCH-0011, eCH -0044 und eCH -0021 geführt werden
 
-Alle Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
+Alle Versionen: [v3.9.9](1.2/README.md) · [v3.9.8](1.2/README.md)
 
 ---
 **Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
