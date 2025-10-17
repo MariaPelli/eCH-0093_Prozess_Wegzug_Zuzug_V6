@@ -11,7 +11,7 @@
 > Diese README folgt dem SAGA-Layout: **Startseite/Übersicht** oben, gefolgt vom **vollständigen Inhalt**.  
 > Alle Texte wurden beibehalten; die Feedback-Links sind kompakt dargestellt.
 
-## 🌐 Übersicht der Kapitel
+## 🌐 Übersicht der Kapitel (Full View)
 
 ### 1. Einleitung
 - Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
