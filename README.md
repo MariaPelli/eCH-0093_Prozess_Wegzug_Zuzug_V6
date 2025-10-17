@@ -15,9 +15,9 @@
 
 ### 1. Einleitung
 - Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
-- [1 Einleitung](#1-einleitung-4)
-- [1.1 Status](#1-1-status-4)
-- [1.2 Anwendungsgebiet](#1-2-anwendungsgebiet-4)
+- [1 Einleitung](#1-einleitung)
+- [1.1 Status](#1-1-status)
+- [1.2 Anwendungsgebiet](#1-2-anwendungsgebiet)
 ### 2. Grundsätze
 - Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
 - [2. Grundsätze](#2-grundsaetze)
@@ -155,7 +155,7 @@ schliesst Frauen in ihrer jeweiligen Funktion ausdrücklich mit ein.
 **Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
-<a id="1-1-status-4"></a>
+<a id="1-1-status"></a>
 ### 1.1 Status · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
 
 Entwurf: Das Dokument wurde von den zuständigen Referenten aus dem Expertenausschuss zur
@@ -171,7 +171,7 @@ Frühere Versionen: [v3.9.9](Status/README.md) · [v3.9.8](Status/README.md)
 **Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
 
 ---
-<a id="1-2-anwendungsgebiet-4"></a>
+<a id="1-2-anwendungsgebiet"></a>
 ### 1.2 Anwendungsgebiet · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
 Die Einwohnerdienste haben den gesetzlichen Auftrag, Einwohnerregister zu führen und die regi-
 strierten und geänderten Personendaten den berechtigten Verwaltungsst ellen zu melden. Das vorlie-
@@ -212,7 +212,6 @@ Alle Versionen: [v4.0.1](4.0.1) · [v4.0.0](4.0.0)
 <a id="2-grundsaetze"></a>
 ### 2. Grundsätze · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
 
----
 <a id="2-1-notation"></a>
 ### 2.1 Notation · Version: ![v4.0.0](https://img.shields.io/badge/version-4.0.2-blue)
 Die Richtlinien in diesem Dokument werden gemäss der Terminologie aus [RFC2119] angegeben,
