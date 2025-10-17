@@ -6,16 +6,16 @@
 
 # eCH-0093 – Prozess Wegzug / Zuzug
 
-[Kontakt](./Kontakt.md) | [Hilfe](./Hilfe.md) | [Exportieren](./Exportieren.md)
+[Full View](../README.md) | [Most Wanted](../Most_wanted_view/README.md) | [Kontakt](./Kontakt.md) | [Hilfe](./Hilfe.md) | [Exportieren](./Exportieren.md)
 
 > Diese README folgt dem SAGA-Layout: **Startseite/Übersicht** oben, gefolgt vom **vollständigen Inhalt**.  
 > Alle Texte wurden beibehalten; die Feedback-Links sind kompakt dargestellt.
 
-## 🌐 Status - Frühere Versionen
+## 🌐 Übersicht der Kapitel (Most Wanted)
 
 ---
 <a id="1-1-status-4"></a>
-### 1 1 Status · Version: ![v3.9.9](https://img.shields.io/badge/version-4.0.2-blue)
+### 1 1 Status · Version: ![v3.9.9](https://img.shields.io/badge/version-4.0.2-blue) ![Rating](https://img.shields.io/badge/Rating-★★★★☆-informational)
 
 Entwurf: Das Dokument wurde von den zuständigen Referenten aus dem Expertenausschuss zur
 öffentlichen K onsultation freigegeben und entsprechend publiziert.
@@ -40,5 +40,6 @@ satzgebiet im festgelegten Gültigkeitsbereich normative Kraft.
 
 ---
 **Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
+
 
 
