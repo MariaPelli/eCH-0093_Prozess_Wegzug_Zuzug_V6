@@ -2,7 +2,7 @@
 [//]: # (Du kannst mehrere Zeilen anlegen, am besten pro Zeile einen Eintrag.)
 [hidden-note]: <> (Interne Notiz: diese Definition wird nicht angezeigt, nur im Raw sichtbar)
 
-<img src="Bilder/logo.svg" alt="Logo eCH" width="260" align="right">
+<img src="../Bilder/logo.svg" alt="Logo eCH" width="260" align="right">
 
 # eCH-0093 – Prozess Wegzug / Zuzug
 
@@ -40,4 +40,5 @@ satzgebiet im festgelegten Gültigkeitsbereich normative Kraft.
 
 ---
 **Feedback**: [Ankündigungen von eCH](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/announcements) ·  [Fehler melden](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Q&A) · [Verbesserung vorschlagen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/categories/Ideas) · [Alle Diskussionen](https://github.com/MariaPelli/eCH-0093_Prozess_Wegzug_Zuzug_V6/discussions/)
+
 
