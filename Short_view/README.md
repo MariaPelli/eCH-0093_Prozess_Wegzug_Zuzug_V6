@@ -2,7 +2,7 @@
 [//]: # (Du kannst mehrere Zeilen anlegen, am besten pro Zeile einen Eintrag.)
 [hidden-note]: <> (Interne Notiz: diese Definition wird nicht angezeigt, nur im Raw sichtbar)
 
-<img src="Bilder/logo.svg" alt="Logo eCH" width="260" align="right">
+<img src="../Bilder/logo.svg" alt="Logo eCH" width="260" align="right">
 
 # eCH-0093 – Prozess Wegzug / Zuzug
 
@@ -38,5 +38,6 @@
 - [3.1.2 Prozess für Nebenwohnsitz -Begründung und -Auflösung](#3-1-2-prozess-fr-nebenwohnsitz-begrndung-und-auflsung-7) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
 - [3.1.2.1 Teilprozess Nebenwohnsitz begründen](#3-1-2-1-teilprozess-nebenwohnsitz-begrnden-8) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
 - [3.1.2.2 Teilprozess Verlän gerung Nebenwohnsitz](#3-1-2-2-teilprozess-verln-gerung-nebenwohnsitz-8) ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue)
+
 
 
